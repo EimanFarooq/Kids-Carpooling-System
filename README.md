@@ -33,10 +33,12 @@ Components Explanation:
 
 Interesting Technical Challenges That We Might Face
 
+> Parallel offers working at the same time
+
 > Multiple drivers trying to book the same ride simultaneously.
 
->  Matching multiple of offers with drivers efficiently.
+> Matching multiple of offers with drivers efficiently.
 
->  Some drivers receive too many offers, others too few.
+> Some drivers receive too many offers, others too few.
 
 > Expired offers consuming memory.
